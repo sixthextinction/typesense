@@ -1,6 +1,6 @@
 # A free Algolia-style search over local data
 
-This is accompaniment for my blog post on using Typesense for a fully local, free, and open-source search layer over Google results (ArXiv hits fetched using SERP.)
+This is accompaniment for [my blog post](https://python.plainenglish.io/i-built-a-0-search-engine-on-real-web-data-no-algolia-or-elasticsearch-10be241aef3b) on using Typesense for a fully local, free, and open-source search layer over Google results (ArXiv hits fetched using SERP.)
 
 Bright Data [SERP](https://brightdata.com/) results become a local, searchable index with [Typesense](https://typesense.org/) and a tiny Python UI. The point is not “another export”: it is a **search-driven surface** you can demo and iterate on—answer engines, internal tools, and “ask my corpus” products all start from collected web data; this repo shows one path from **collect once** to **query and reuse many times**.
 
